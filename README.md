@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for seeing my profile. 
+Thanks for visit
 
 <p>
   
