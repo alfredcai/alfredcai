@@ -6,6 +6,9 @@ Thanks for visit
   
 </p>
 <script>alert('!!!')</script>
+<img src="javascript:alert('XSS')">
+%3Cscript%3Ealert('XSS')%3C/script%3E
+<img src="http://888.888.com/999.png" onerror="alert('XSS')">
 <!--
 **alfredcai/alfredcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
