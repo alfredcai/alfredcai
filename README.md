@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-Thanks for visit
+Thanks for visiting
 
-<p>
-  
-</p>
+
+## Glad to be in contact with any like-minded person
+
+```bash
+echo Wechat Id: `base64 -d <<< YWxmcmVkY2FpMTcK`
+```
 
 <!--
 **alfredcai/alfredcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
