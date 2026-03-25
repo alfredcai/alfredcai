@@ -6,7 +6,7 @@ Thanks for visiting
 ## Glad to be in contact with any like-minded person
 
 ```bash
-echo Wechat Id: `base64 -d <<< YWxmcmVkY2FpMTcK`
+echo `base64 -d <<< V2VjaGF0IElkOiBhbGZyZWRjYWkxNw==`
 ```
 
 <!--
